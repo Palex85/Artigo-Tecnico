@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/capa.png"
+    src="Assets/Capa.png"
     width="400"  
   />
 </p>
@@ -44,3 +44,10 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 
 ⌨️ com 💜 por Paulo Nascimento
+<p align="center">
+  <img 
+    src="Assets/Eu robô.png"
+    width="400"  
+  />
+</p>
+
