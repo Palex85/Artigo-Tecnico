@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src=""
+    src=".github/assets/capa.png"
     width="400"  
   />
 </p>
@@ -22,9 +22,14 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ## 📄 Prompts e ferramentas
 
-Crie um artigo tecnico sobre o tema Ética e Responsabilidade na IA
+- Conteúdo gerado via ChatGPT
+- Imagens do acervo público geradas via Lexica.art e Microsoft copilot
+<br/>
 
- Comporte- se como um escritor de artigos tech e escreva o artigo seguindo as regras abaixo
+
+- Crie um artigo técnico sobre o tema Ética e Responsabilidade na IA
+
+- Comporte- se como um escritor de artigos tech e escreva o artigo seguindo as regras abaixo
 
 {REGRAS}
 > Ajuste por blocos de no maximo 5 linhas de explicação
@@ -36,3 +41,6 @@ Crie um artigo tecnico sobre o tema Ética e Responsabilidade na IA
 -Dê exemplos praticos 
 -Faça um call to action para as minhas redes sociais 
 -Coloque 3 hashtags que façam sentido
+
+
+⌨️ com 💜 por Paulo Nascimento
