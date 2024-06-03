@@ -46,7 +46,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ⌨️ com 💜 por Paulo Nascimento
 <p align="center">
   <img 
-    src="Assets/Eu robô.png"
+    src="Assets/Eu robô.jpg"
     width="400"  
   />
 </p>
