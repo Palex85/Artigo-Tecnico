@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src=""
+    src="Assets/Capa.png"
     width="400"  
   />
 </p>
@@ -17,7 +17,7 @@ E aí, galera nerd! 🤓 A inteligência artificial (IA) tá bombando, né? Mas,
 Pensa na IA como se fosse o Jarvis do Homem de Ferro, só que em vez de ajudar o Tony Stark, ela está em todo lugar: no seu celular, no seu videogame,
  até na sua geladeira! A inteligência artificial é quando a gente ensina as máquinas a pensar e aprender sozinhas. Legal, né?
 
- ##Por que a Ética é Importante na IA?
+ ## Por que a Ética é Importante na IA?
 
 Imagina se o Jarvis só ajudasse o Tony Stark e ignorasse todo mundo? Seria injusto! A ética na IA garante que essas super máquinas façam coisas justas
  e legais pra todo mundo. É tipo garantir que todos os heróis tenham suas chances, não só os Vingadores.
