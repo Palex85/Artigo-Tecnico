@@ -1,5 +1,12 @@
 # Ética e Responsabilidade na Inteligência Artificial: Um Guia Simples!
 
+<p align="center">
+  <img 
+    src=""
+    width="400"  
+  />
+</p>
+
 ## Introdução
 
 E aí, galera nerd! 🤓 A inteligência artificial (IA) tá bombando, né? Mas, ó, com grandes poderes vêm grandes responsabilidades! Nesse artigo,
