@@ -43,7 +43,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 -Coloque 3 hashtags que façam sentido
 
 
-⌨️ com 💜 por Paulo Nascimento 
+ 
 
 <p align="center">
   <img 
@@ -51,6 +51,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
     width="400"  
   />
 </p>
+ 🏃‍♂️🏃‍♂️🏃‍♂️💻 Me segue lá nas minhas redes sociais
  <p>&nbsp&nbsp&nbspPaulo Nascimento<br>
     &nbsp&nbsp&nbsp
      <a href="https://github.com/Palex85">
