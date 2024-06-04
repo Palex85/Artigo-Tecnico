@@ -85,12 +85,23 @@ mas também ficam de ouvido em pé, o que pode ser meio invasivo.
 
 ### 💁‍♂️🤦‍♂️ Bora Debater!?
 
-Curtiu? Então vamos continuar essa conversa! Segue minhas redes sociais
+Curtiu? Então vamos continuar essa conversa! Segue minhas redes sociais <br/>
+ ###  <p>Paulo Nascimento <p/>
+
+   <a href="https://github.com/Palex85">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/paulo-nascimento-7147408b/
+">LinkedIn</a>
+&nbsp;|&nbsp;
+<a href="https://www.instagram.com/p.a_nasci/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+     
  pra gente discutir mais sobre como a tecnologia tá mudando nosso mundo
 e como a gente pode usar tudo isso de um jeito super responsável e justo.
 Compartilha esse artigo, chama a galera pra debater!
 
-Fontes de produção
+# Fontes de produção
 
-Ilustraões de capa e arts: Geradas pela lexica.art e Microsoft Copilot
-Conteudo gerado por: ChatGPT e revisado por humano e Microsoft Copilot
+Ilustraões de capa e arts: Geradas pela lexica.art e Microsoft Copilot <br/>
+Conteudo gerado por: ChatGPT, Microsoft Copilot e revisado por humano no caso EU!
