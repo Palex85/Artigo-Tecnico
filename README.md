@@ -43,11 +43,21 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 -Coloque 3 hashtags que façam sentido
 
 
-⌨️ com 💜 por Paulo Nascimento
+⌨️ com 💜 por Paulo Nascimento 
+
 <p align="center">
   <img 
     src="Assets/Eu robô.jpg"
     width="400"  
   />
 </p>
-
+ <p>&nbsp&nbsp&nbspPaulo Nascimento<br>
+    &nbsp&nbsp&nbsp
+     <a href="https://github.com/Palex85">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/paulo-nascimento-7147408b/
+">LinkedIn</a>
+&nbsp;|&nbsp;
+<a href="https://www.instagram.com/p.a_nasci/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
